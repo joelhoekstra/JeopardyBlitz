@@ -1,4 +1,4 @@
-# Daily Jeopardy! Hardcore
+# Jeopardy Blitz
 
 A spin-off of the monthly game: **a brand-new 3 × 5 board every day**, a hidden Daily Double, and a score that **resets at midnight**. The highest score each day wins that day, and the leaderboard ranks players by days won, then all-time score.
 
@@ -7,7 +7,7 @@ A spin-off of the monthly game: **a brand-new 3 × 5 board every day**, a hidden
 - **New board daily.** 3 categories with 5 clues each ($200 to $1,000). Play the tiles in any order. There are no unlock rules.
 - **Score resets daily.** Everyone starts each day at $0. Correct answers add the clue's value, wrong answers subtract it, and a pass costs nothing.
 - **Hidden Daily Double.** One tile (never in the $200 row) hides a Daily Double. Wager from $5 up to your score, or $1,000 if your score is lower. You can't pass, and a wrong answer or running out of time loses the whole wager.
-- **Timer.** 20 seconds per clue, 30 for the Daily Double. Running out of time on a normal clue counts as a pass.
+- **Timer.** 60 seconds per clue, Daily Double included. Running out of time on a normal clue counts as a pass; on the Daily Double it loses the wager.
 - **No take-backs.** Once a clue is revealed it is used. Leaving or reloading mid-clue counts as a pass (or a lost wager on the Daily Double).
 - **No appeals,** and answer checking is stricter than the monthly game (a stray letter no longer counts).
 - **Winning the day.** The top score wins; ties share the win. Today's leader is credited once the day is over.
