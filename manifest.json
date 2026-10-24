@@ -1,6 +1,6 @@
 {
-  "name": "Daily Jeopardy Hardcore",
-  "short_name": "Hardcore",
+  "name": "Jeopardy Blitz",
+  "short_name": "Blitz",
   "description": "A new Jeopardy board every day",
   "start_url": "./",
   "scope": "./",
