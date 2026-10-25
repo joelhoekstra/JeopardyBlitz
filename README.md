@@ -1,6 +1,6 @@
 # Jeopardy Blitz
 
-A spin-off of the monthly game: **a brand-new 3 × 5 board every day**, a hidden Daily Double, and a score that **resets at midnight**. The highest score each day wins that day, and the leaderboard ranks players by days won, then all-time score.
+A spin-off of the monthly game: **a brand-new 3 × 5 board every day**, a hidden Daily Double, and a score that **resets at midnight**. The highest score each day wins that day, and the leaderboard ranks players by total days won, with today's score shown alongside.
 
 ## How it plays
 
@@ -9,9 +9,10 @@ A spin-off of the monthly game: **a brand-new 3 × 5 board every day**, a hidden
 - **Hidden Daily Double.** One tile (never in the $200 row) hides a Daily Double. Wager from $5 up to your score, or $1,000 if your score is lower. You can't pass, and a wrong answer or running out of time loses the whole wager.
 - **Timer.** 60 seconds per clue, Daily Double included. Running out of time on a normal clue counts as a pass; on the Daily Double it loses the wager.
 - **No take-backs.** Once a clue is revealed it is used. Leaving or reloading mid-clue counts as a pass (or a lost wager on the Daily Double).
-- **No appeals,** and answer checking is stricter than the monthly game (a stray letter no longer counts).
+- **Judge Appeal.** If a typed answer is marked wrong but the player was right, they can appeal right away and it counts as correct. It's an honor system. It isn't offered after a timeout, and appealed answers are labelled in the review screen.
+- **Answer checking** is stricter than the monthly game (a stray letter no longer counts), which is what the appeal is for.
 - **Winning the day.** The top score wins; ties share the win. Today's leader is credited once the day is over.
-- **Leaderboard.** Days won, all-time score, today's score, plus the last 7 finished days.
+- **Leaderboard.** Players are ranked by total days won. Today's score is shown next to it and breaks ties, and anyone who hasn't played yet today goes last among equals. The last 7 finished days are listed below.
 
 ## Setting it up (copy of the monthly game)
 
